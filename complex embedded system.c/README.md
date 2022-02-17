@@ -5,7 +5,7 @@ system today.it is plastic card with a built-in microprocessor, used typically t
 e-wallet card, identification card, medical card (for 
 history and diagnosis details).
 
-* Number of new innovative application.
+* it is used for Number of new innovative application.
 * Enabling authentication and verification of card and card holder by a host.
 * Enabling GUI at host machine to interact with the card holder/user for the required transactions, for example, financial transactions with a bank or credit card transactions.
 * smart cards are used to make fast and safe transactions 
