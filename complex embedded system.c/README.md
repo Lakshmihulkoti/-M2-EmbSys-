@@ -19,9 +19,9 @@ history and diagnosis details).
 * The radiations from the host a charge pump at the card.
 * The charge pump powers the SoC circuit consisting of card processor ,memory,timer,interrupt handler and IO port,Port-IO.
 * On power up,system reset signals reset-Task to start
-* * reset-Task :it sends the messages request Header and request start for waiting task Task_Report.
-* * task_ReadPort: it sends request for host identification and reads through the port_IO the host-identification message and request for card identification
-* task_PW : it sends through Port_IO the requested card indentification after system receives the host indentity through Port_IO.
+* reset-Task :It sends the messages request Header and request start for waiting task Task_Report.
+*  task_ReadPort: It sends request for host identification and reads through the port_IO the host-identification message and request for card identification
+* task_PW : It sends through Port_IO the requested card indentification after system receives the host indentity through Port_IO.
 * task_Appl :onces person enter correct password it will go to task_Appl and runs required API.
 * The card can now be withdrawn All transactions between cardholder/user now take place through GUIs using at host control pannel (scrren or touch screen or LCD display panel).
 * Onces the application is over,we can take back the card from the machine.
