@@ -9,3 +9,5 @@ number of new innovative application.
 * Enabling GUI at host machine to interact with the card holder/user for the required transactions, for example, financial transactions with a bank or credit card transactions.
 
 # Hardware and software Architecture :
+
+![New Doc 02-17-2022 23 39 59_1](https://user-images.githubusercontent.com/98826329/154547257-c8ea4768-7cad-47f8-908a-e5c2c7217da3.jpg)
