@@ -20,5 +20,11 @@ working of traffic signal:
 * Instead of traffic lights you can use LEDs( red ,green ,yellow ). In normal traffic system you have to glow the LED is on the time basis if the traffic density is high on any particular path then glow green LED of that particular path. 
 
 
+# High level Requirements:
+* we can reduce the possibility of traffic jams caused by traffic lights
+* traffic lights is to provide sophisticated control and coordination to ensure that traffic moves as smoothly and safety as possible.
+
  
                                        
+* Low level Requirements:
+* If IR sensors fails then we cant measure the traffic density
