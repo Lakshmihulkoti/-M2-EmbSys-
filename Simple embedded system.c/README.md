@@ -10,7 +10,18 @@ Nowdays,controlling the traffic becomes major issue because of rapid increase in
 * The LEDs are automatically on and off by making the corresponding port pin of the microcontroller high.
 
 working of traffic signal:
-* In this system,we will use IR Sensors to measure 
+* In this system we will use a IR sensor to measure the traffic density 
+* we have to arrange one IR sensor for each road the sensors always send the traffic on that particular road.
+* All the sensors are interfaced to the microcontroller based on these sensors controller detects the traffic and control the traffic system .
+* the main heart of this traffic system is microcontroller .
+* IR sensors are connected to the port of the microcontroller and traffic lights are connected to port of the microcontroller.
+*  if there is a traffic on then that particular sensor output become logic 0 otherwise logic 1 by receiving these IR sensor outputs .
+*   if you receive logic 0 from any of these sensors,  we have to give the green signals to that particular path and give read signals to all other parts continuously we have to monitor the IR sensor to check for the traffic.
+*   we have to place this I have a in such a way that when we placed an obstacle in front of this IR pair IR sensor should be able to receive the IRS when we give the power the transmitted IR is heat the object and reflect back to the IR receiver.
+* Instead of traffic lights you can use LEDs( red ,green ,yellow ). In normal traffic system you have to glow the LED is on the time basis if the traffic density is high on any particular path then glow green LED of that particular path. 
+
+and glows the red LED for remaining pass this project can be held as in such a way that as to control automatically the signals depending on the traffic density on the roads using sansar like IR detectors receiver model extended with automatic turn off when no vehicles are running on any side of the road which helps in power consuming saving by using this system we can configuration we can reduce the possibility of traffic jams caused by traffic lights are to an extent the number of passing vehicles on the road besides the density range of traffic and the basics of vehicle count microcontroller based at the traffic lights dealers
+
 
  
                                        
