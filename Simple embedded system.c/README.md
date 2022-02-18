@@ -3,6 +3,7 @@
 
 The function of traffic lights is to provide sophisticated control and coordination to ensure that traffic moves as smoothly and safety as possible.
 Nowdays,controlling the traffic becomes major issue because of rapid increase in automobiles and also because of large time delays between traffic lights.so,inorder to rectify this problem.we will go for large time delays between traffic lights system.
+
 ![traffic signal](https://user-images.githubusercontent.com/98826329/154722937-6c3f52b5-4dbf-4c5f-b807-579a0288e22e.png)
 * this system uses a LED light as an indicator and  IR sensors for receiving the signal from traffic.
 * A microcontroller for auto change signalaftera specifictime interval.
@@ -20,7 +21,7 @@ Nowdays,controlling the traffic becomes major issue because of rapid increase in
 * Instead of traffic lights you can use LEDs( red ,green ,yellow ). In normal traffic system you have to glow the LED is on the time basis if the traffic density is high on any particular path then glow green LED of that particular path. 
 
 
-# High level Requirements:
+## High level Requirements:
 * we can reduce the possibility of traffic jams caused by traffic lights
 * traffic lights is to provide sophisticated control and coordination to ensure that traffic moves as smoothly and safety as possible.
 
