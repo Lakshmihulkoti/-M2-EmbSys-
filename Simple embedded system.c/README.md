@@ -1,7 +1,6 @@
 
 # Density Based Traffic signal system using microcontroller
 
-
 The function of traffic lights is to provide sophisticated control and coordination to ensure that traffic moves as smoothly and safety as possible.
 Nowdays,controlling the traffic becomes major issue because of rapid increase in automobiles and also because of large time delays between traffic lights.so,inorder to rectify this problem.we will go for large time delays between traffic lights system.
 ![traffic signal](https://user-images.githubusercontent.com/98826329/154722937-6c3f52b5-4dbf-4c5f-b807-579a0288e22e.png)
@@ -19,8 +18,6 @@ working of traffic signal:
 *   if you receive logic 0 from any of these sensors,  we have to give the green signals to that particular path and give read signals to all other parts continuously we have to monitor the IR sensor to check for the traffic.
 *   we have to place this I have a in such a way that when we placed an obstacle in front of this IR pair IR sensor should be able to receive the IRS when we give the power the transmitted IR is heat the object and reflect back to the IR receiver.
 * Instead of traffic lights you can use LEDs( red ,green ,yellow ). In normal traffic system you have to glow the LED is on the time basis if the traffic density is high on any particular path then glow green LED of that particular path. 
-
-and glows the red LED for remaining pass this project can be held as in such a way that as to control automatically the signals depending on the traffic density on the roads using sansar like IR detectors receiver model extended with automatic turn off when no vehicles are running on any side of the road which helps in power consuming saving by using this system we can configuration we can reduce the possibility of traffic jams caused by traffic lights are to an extent the number of passing vehicles on the road besides the density range of traffic and the basics of vehicle count microcontroller based at the traffic lights dealers
 
 
  
