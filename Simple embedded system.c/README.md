@@ -8,7 +8,7 @@ Nowdays,controlling the traffic becomes major issue because of rapid increase in
 * A microcontroller for auto change signalaftera specifictime interval.
 * The LEDs are automatically on and off by making the corresponding port pin of the microcontroller high.
 
-working of traffic signal:
+## working of traffic signal:
 * In this system we will use a IR sensor to measure the traffic density 
 * we have to arrange one IR sensor for each road the sensors always send the traffic on that particular road.
 * All the sensors are interfaced to the microcontroller based on these sensors controller detects the traffic and control the traffic system .
@@ -25,6 +25,5 @@ working of traffic signal:
 * traffic lights is to provide sophisticated control and coordination to ensure that traffic moves as smoothly and safety as possible.
 
  
-                                       
-* Low level Requirements:
+## Low level Requirements:
 * If IR sensors fails then we cant measure the traffic density
