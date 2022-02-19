@@ -1,7 +1,7 @@
 # Report:
 ## Density Based Traffic signal system using microcontroller
 
-## purpose:
+## Purpose:
 The function of traffic lights is to provide sophisticated control and coordination to ensure that traffic moves  smoothly and safely as much as possible.
 but traffic control is a major issue nowdays, because of the increment of automobile vechiles and because of long delay time between the traffic lights.
 so,inorder to rectify this problem,we are intrested to bring up the traffic  signal system based on the density.
@@ -12,7 +12,7 @@ so,inorder to rectify this problem,we are intrested to bring up the traffic  sig
 * A microcontroller for  changing the signal after a specific time interval.
 * The LEDs are automatically turned on and off by making the corresponding port pin of the microcontroller high and low.
  
-** Components :
+## Components :
 * Atmega32 Microcontroller
 * IR sensor's
 * LED's
