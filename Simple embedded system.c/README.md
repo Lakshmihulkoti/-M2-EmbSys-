@@ -3,8 +3,8 @@
 
 The function of traffic lights is to provide sophisticated control and coordination to ensure that traffic moves as smoothly and safety as possible.
 Nowdays,controlling the traffic becomes major issue because of rapid increase in automobiles and also because of large time delays between traffic lights.so,inorder to rectify this problem.we will go for large time delays between traffic lights system.
+                    z![traffic](https://user-images.githubusercontent.com/98826329/154784826-b23555f4-103c-4fb1-a419-8ae654290a4c.png)
 
-![traffic signal](https://user-images.githubusercontent.com/98826329/154722937-6c3f52b5-4dbf-4c5f-b807-579a0288e22e.png)
 * this system uses a LED light as an indicator and  IR sensors for receiving the signal from traffic.
 * A microcontroller for auto change signalaftera specifictime interval.
 * The LEDs are automatically on and off by making the corresponding port pin of the microcontroller high.
@@ -22,9 +22,12 @@ Nowdays,controlling the traffic becomes major issue because of rapid increase in
 
 
 ## High level Requirements:
-* we can reduce the possibility of traffic jams caused by traffic lights
-* traffic lights is to provide sophisticated control and coordination to ensure that traffic moves as smoothly and safety as possible.
 
+ |  HLR1 |   we can reduce the possibility of traffic jams caused by traffic lights   |
+ | HLR2  |   traffic lights is to provide sophisticated control and coordination to ensure that traffic moves as smoothly and safety as possible.|
+ | HLR3  |  If there is traffic on road then that particular sensor output becomes logic 0 otherwise logic 1 |
+ | HLR4  |  By receiving these IR sensors outputs,we can write the program  |
  
 ## Low level Requirements:
-* If IR sensors fails then we cant measure the traffic density
+| LLR1 | Instead of traffic lights you can use LEDs( red ,green ,yellow ) |
+| LLR2 | 
