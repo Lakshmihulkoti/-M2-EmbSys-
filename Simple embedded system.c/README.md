@@ -5,7 +5,7 @@ The function of traffic lights is to provide sophisticated control and coordinat
 but traffic control becomes a major issue nowdays, because of the increment of automobile vechiles and because of large delay time between the traffic lights.
 so,inorder to rectify this problem.we will go for density Based Traffic signal system using microcontroller
 
-      z![traffic](https://user-images.githubusercontent.com/98826329/154784826-b23555f4-103c-4fb1-a419-8ae654290a4c.png)    ![Screenshot (15)](https://user-images.githubusercontent.com/98826329/154787734-9b36b464-f20a-4a65-b1d2-55fcededefbe.png)
+      z![traffic](https://user-images.githubusercontent.com/98826329/154784826-b23555f4-103c-4fb1-a419-8ae654290a4c.png)      ![Screenshot (15)](https://user-images.githubusercontent.com/98826329/154787734-9b36b464-f20a-4a65-b1d2-55fcededefbe.png)
 
 
 
@@ -22,9 +22,7 @@ so,inorder to rectify this problem.we will go for density Based Traffic signal s
 * so ,Here continuously we have to monitor the IR sensors to check for the traffic.
 *  we have to place these IR pair in such a way that when we place an obstacle infront of this IR pairs,IR sensor should be able to receive the IR rays 
 *   when we give the power,the transmitted IR rays hit the object and reflect back to the IR receiver.
-* Instead of traffic lights you can use LEDs( red ,green ,yellow ).               ![Screenshot (15)](https://user-images.githubusercontent.com/98826329/154787734-9b36b464-f20a-4a65-b1d2-55fcededefbe.png)
-
-    
+* Instead of traffic lights you can use LEDs( red ,green ,yellow ).             
 *  In normal traffic system you have to glow the LED is on the time basis if the traffic density is high on any particular path 
 then glow green LED of that particular path.
              
