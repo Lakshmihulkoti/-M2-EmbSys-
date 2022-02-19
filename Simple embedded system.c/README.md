@@ -23,10 +23,10 @@ Nowdays,controlling the traffic becomes major issue because of rapid increase in
 
 ## High level Requirements:
  |-------------------------------|:------------------------------------------|
- |  HLR1 |   we can reduce the possibility of traffic jams caused by traffic lights   |
- | HLR2  |   traffic lights is to provide sophisticated control and coordination to ensure that traffic moves as smoothly and safety as possible.|
- | HLR3  |  If there is traffic on road then that particular sensor output becomes logic 0 otherwise logic 1 |
- | HLR4  |  By receiving these IR sensors outputs,we can write the program  |
+ |  HLR1                         |   we can reduce the possibility of traffic jams caused by traffic lights   |
+ | HLR2                          |   traffic lights is to provide sophisticated control and coordination to ensure that traffic moves as smoothly and safety as possible.|
+ | HLR3                          |  If there is traffic on road then that particular sensor output becomes logic 0 otherwise logic 1 |
+ | HLR4                          |  By receiving these IR sensors outputs,we can write the program  |
  
 ## Low level Requirements:
 | LLR1 | Instead of traffic lights you can use LEDs( red ,green ,yellow ) |
