@@ -30,5 +30,7 @@ Nowdays,controlling the traffic becomes major issue because of rapid increase in
  | HLR4                          |  By receiving these IR sensors outputs,we can write the program  |
  
 ## Low level Requirements:
+|    LLR       |              Description                  |
+|-------------------------------|:------------------------------------------|
 | LLR1 | Instead of traffic lights you can use LEDs( red ,green ,yellow ) |
 | LLR2 | 
