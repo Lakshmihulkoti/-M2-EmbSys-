@@ -11,6 +11,10 @@ Nowdays,controlling the traffic becomes major issue because of rapid increase in
 * A microcontroller for auto change signalaftera specifictime interval.
 * The LEDs are automatically on and off by making the corresponding port pin of the microcontroller high.
 
+* IR Sensors : The density based traffic light system use IR sensors to measure the traffic density.We must set up one IR sensor for each road,so these sensors will always detect traffic on that route
+* Microcontroller: The main and important part of this traffic system is the microcontroller.The microcontroller is connected to all of these sensors. The controller detects and regulates the traffic system using these sensors.
+
+
 ## working of traffic signal:
 * In this system we will use a IR sensor to measure the traffic density 
 * we have to arrange one IR sensor for each road the sensors always send the traffic on that particular road.
@@ -20,7 +24,8 @@ Nowdays,controlling the traffic becomes major issue because of rapid increase in
 *  if there is a traffic on then that particular sensor output become logic 0 otherwise logic 1 by receiving these IR sensor outputs .
 *   if you receive logic 0 from any of these sensors,  we have to give the green signals to that particular path and give read signals to all other parts continuously we have to monitor the IR sensor to check for the traffic.
 *   we have to place this I have a in such a way that when we placed an obstacle in front of this IR pair IR sensor should be able to receive the IRS when we give the power the transmitted IR is heat the object and reflect back to the IR receiver.
-* Instead of traffic lights you can use LEDs( red ,green ,yellow ). In normal traffic system you have to glow the LED is on the time basis if the traffic density is high on any particular path then glow green LED of that particular path.             
+* Instead of traffic lights you can use LEDs( red ,green ,yellow ). In normal traffic system you have to glow the LED is on the time basis if the traffic density is high on any particular path then glow green LED of that particular path.
+             
 
 ## High level Requirements:
  |    HLR                        |              Description                  |  
