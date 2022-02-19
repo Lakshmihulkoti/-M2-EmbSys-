@@ -31,9 +31,9 @@ then glow green LED of that particular path.
  |    HLR                        |              Description                  |  
  |-------------------------------|:------------------------------------------|
  |  HLR1                         |   we can reduce the possibility of traffic jams caused by traffic lights   |
- | HLR2                          ||system use IR sensors to measure the traffic density |
+ | HLR2                          | system use IR sensors to measure the traffic density |
  | HLR3                          | by monitoring the IR sensors we can check the traffic. |
- | HLR4                          |   traffic lights is to provide sophisticated control and coordination to ensure that traffic moves as smoothly and safety as possi  |
+ | HLR4                          |   traffic lights is to provide sophisticated control and coordination to ensure that traffic moves as smoothly and safety as possible.|
  
 ## Low level Requirements:
 |    LLR       |              Description                  |
