@@ -1,5 +1,5 @@
 
-                                      # Density Based Traffic signal system using microcontroller
+# Density Based Traffic signal system using microcontroller
 
 ## Purpose:
 The function of traffic lights is to provide sophisticated control and coordination to ensure that traffic moves  smoothly and safely as much as possible.
