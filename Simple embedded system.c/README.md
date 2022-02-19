@@ -22,6 +22,7 @@ Nowdays,controlling the traffic becomes major issue because of rapid increase in
 
 
 ## High level Requirements:
+ |    HLR                        |              Description                  |  
  |-------------------------------|:------------------------------------------|
  |  HLR1                         |   we can reduce the possibility of traffic jams caused by traffic lights   |
  | HLR2                          |   traffic lights is to provide sophisticated control and coordination to ensure that traffic moves as smoothly and safety as possible.|
