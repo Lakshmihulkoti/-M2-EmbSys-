@@ -17,6 +17,7 @@ z![traffic](https://user-images.githubusercontent.com/98826329/154784826-b23555f
 * Microcontroller: The main and important part of this traffic system is the microcontroller.The microcontroller is connected to all of these sensors. The controller detects and regulates the traffic system using these sensors.
 * the main heart of this traffic system is microcontroller .
 * IR sensors are connected to the port of the microcontroller and traffic lights are connected to port of the microcontroller.
+*  If there is traffic on road then that particular sensor output becomes logic 0 otherwise logic 1
 *  If microcontroller receives logic 0 from any of the IR sensors, then we have to give green light signal to that road and gives red traffic signal to  all other roads.
 * so ,Here continuously we have to monitor the IR sensors to check for the traffic.
 *  we have to place these IR pair in such a way that when we place an obstacle infront of this IR pairs,IR sensor should be able to receive the IR rays 
@@ -30,12 +31,12 @@ then glow green LED of that particular path.
  |    HLR                        |              Description                  |  
  |-------------------------------|:------------------------------------------|
  |  HLR1                         |   we can reduce the possibility of traffic jams caused by traffic lights   |
- | HLR2                          |   traffic lights is to provide sophisticated control and coordination to ensure that traffic moves as smoothly and safety as possible.|
- | HLR3                          |  If there is traffic on road then that particular sensor output becomes logic 0 otherwise logic 1 |
- | HLR4                          |  By receiving these IR sensors outputs,we can write the program  |
+ | HLR2                          ||system use IR sensors to measure the traffic density |
+ | HLR3                          | by monitoring the IR sensors we can check the traffic. |
+ | HLR4                          |   traffic lights is to provide sophisticated control and coordination to ensure that traffic moves as smoothly and safety as possi  |
  
 ## Low level Requirements:
 |    LLR       |              Description                  |
 |-------------------------------|:------------------------------------------|
-| LLR1 | Instead of traffic lights you can use LEDs( red ,green ,yellow ) |
-| LLR2 | 
+| LLR1 | Instead of traffic lights we can use LEDs( red ,green ,yellow ) |
+| LLR2 | By receving IR sensors output,we can write the program.|
