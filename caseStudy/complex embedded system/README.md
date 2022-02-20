@@ -1,5 +1,6 @@
 # Complex Embedded System : Smart Card 
 
+# Purpose :
 Smart card is one of the most used embedded 
 system today.it is plastic card with a built-in microprocessor, used typically to perform financial transactions.It is used for credit, debit bank card, 
 e-wallet card, identification card, medical card (for 
@@ -20,12 +21,17 @@ history and diagnosis details).
 * The task_ReadPort sends request for host identification and reads through the port_IO the host-identification message and request for card identification.
 * The task_PW sends through Port_IO the requested card indentification after system receives the host indentity through Port_IO.
 * Onces person enter correct password it will go to task_Appl and runs required API.The requesteApplClose message closes the application.
+* Except the Task_Reset ,for each and other task we have ISR(Interput service Routine )whenver you move from one task to another task interupt will change to the next  application.
 * The card can now be withdrawn All transactions between cardholder/user now take place through GUIs using at host control pannel (scrren or touch screen or LCD display panel).
 * Onces the application is over,we can take back the card from the machine.
 
 # Smart Card Hardware
 * A plastic card in ISO standard dimensions, 85.60 mm x 53.98 x 0.80 mm.
 * It is an embedded SoC (System-On-Chip). 
+* we have CPU for that We should have RAM which is Nothing but memory where all content has been stored.
+* Port_IO is place where either data goes out or data comes In.
+* Transceiver which is nothing but IC which is going to transmit serially data outwords.
+* Flash memory we can use at the time of issue 
 * Now smart cards are avaiable in 2 version
 * [ISO standards - ISO7816 (1 to 4) for host-machine contact based card and ISO14443 (Part A or B) for the contact-less cards.]
 * Microcontroller MC68HC11D0 or PIC16C84 or a smart card processor Philips Smart XA or an ASIP Processor. Needs 8 kB+ internal RAM and 32 kB EPROM and 2/3 wire protected memory.
