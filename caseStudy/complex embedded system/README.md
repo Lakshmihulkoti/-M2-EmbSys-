@@ -12,7 +12,8 @@ history and diagnosis details).
 
 # Hardware and software Architecture :
 
-![New Doc 02-17-2022 23 39 59_1](https://user-images.githubusercontent.com/98826329/154547257-c8ea4768-7cad-47f8-908a-e5c2c7217da3.jpg)
+![New Doc 02-17-2022 23 39 59_1](https://user-images.githubusercontent.com/98826329/154547257-c8ea4768-7cad-47f8-908a-e5c2c7217da3.jpg) ![Screenshot (18)](https://user-images.githubusercontent.com/98826329/154830989-a6736652-e158-4de4-a8f2-4dd1ce4ca10b.png)
+
 
 ## system functioning :
 * The card inserts at a host machine.
