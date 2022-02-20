@@ -48,6 +48,10 @@ then glow green LED of that particular path.
 | LLR3 | we can save a considerable amount of time |
 | LLR4 | It keeps a track of the vechiles |
 
+## V model :
+![Screenshot (24)](https://user-images.githubusercontent.com/98826329/154850996-2530b592-9765-4459-a8a4-c02b9b615206.png)
+
+
 ## Application
 * It is mainly used in the traffic signals in metropolitan cities to provide uniform distribution of traffic.
 * This will help maintain efficient traffic control management system.
