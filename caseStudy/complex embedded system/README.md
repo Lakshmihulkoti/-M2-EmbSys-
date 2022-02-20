@@ -44,6 +44,29 @@ history and diagnosis details).
 *  chip-supply system using charge pump.
 EEPROM or Flash scalable – only needed part unlocks when storing P.I.N., unlocking P.I.N., access condition, card-user data, post activation application run generated non-volatile data, invalidation lock to invalidate card after the expiry date or server instruction.
 
+
+## High level Requirements:
+ |    HLR                        |              Description                  |  
+ |-------------------------------|:------------------------------------------|
+ |  HLR1                         |  we can reduce the possibility of traffic jams caused by traffic lights   |
+ | HLR2                          | system use IR sensors to measure the traffic density |
+ | HLR3                          | by monitoring the IR sensors we can check the traffic. |
+ | HLR4                          |   traffic lights is to provide sophisticated control and coordination to ensure that traffic moves as smoothly and safety as possible.|
+ 
+## Low level Requirements:
+|    LLR       |              Description                  |
+|-------------------------------|:------------------------------------------|
+| LLR1 | Instead of traffic lights we can use LEDs( red ,green ,yellow ) |
+| LLR2 | By receving IR sensors output,we can write the program.|
+| LLR3 | we can save a considerable amount of time |
+| LLR4 | It keeps a track of the vechiles |
+
+
+
+
+
+
+
 # Applications of Smart Card
 * Banking
 *  Medical Health Cards
