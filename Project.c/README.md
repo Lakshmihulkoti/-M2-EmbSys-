@@ -43,6 +43,7 @@ ongoing supply of electricity to homes, offices etc
 * Electrical meteres are typically calibrated in billing units the most common one being the kilowatt hour.
 * 
 ## GSM Modern :
+![Screenshot (53)](https://user-images.githubusercontent.com/98826329/155767574-7e036686-8e59-4b82-af24-976d30569837.png)
 * GSM modern is a specialised type of modem which accepts sim card ,and operates over subscription to a mobile operator ,just like a mobile phone.
 * From the mobile operator prospective, a GSM modem looks like just mobile phone .
 * When GSM modem is connected to computer, this allows a computer to use the GSM modem to communicate over the mobile network.
