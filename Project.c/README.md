@@ -23,7 +23,7 @@ ongoing supply of electricity to homes, offices etc
 *  While these GSM modems are most frequently used to provide mobile network connectivity many of them can also be used for sending and receiving SMS and MMS messages
 
 ## LCD : 
-![Screenshot (40)](https://user-images.githubusercontent.com/98826329/155742497-c5846a94-bd92-425e-bdbe-6ac2d299c423.png)
+![Screenshot (47)](https://user-images.githubusercontent.com/98826329/155748710-974898bc-56ef-49d1-bb33-3a436c36dd74.png)
  * Most common LCDs connected to the ardiuno are 16*2 display. 
  * which displays the amount of power consumed.
 
