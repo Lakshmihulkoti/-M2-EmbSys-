@@ -1,4 +1,19 @@
 # Prepaid Energy Meter using Arduino and GSM
+Description :
+                    In this project we are building a automated system by using Arduino and GSM module. we can recharge the electricity balance through this system, just by sending a SMS. It can also disconnect the home power supply connection, if there is low or zero balance in the system. And this system will reads the energy meter readings and automatically send some updates to user’s mobile phone like low balance alert, cut off alert, resume alert and recharge alert.
+                   
+# SWOT ANALYSIS :
+** WHO :
+WHEN :
+WHERE :
+WHY :
+HOW :
+
+
+
+
+
+
 
 
 ## Block Diagram
