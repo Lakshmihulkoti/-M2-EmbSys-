@@ -1,5 +1,5 @@
 # Prepaid Energy Meter using Arduino and GSM
-Description :
+# Description :
                     In this project we are building a automated system by using Arduino and GSM module. we can recharge the electricity balance through this system, just by sending a SMS. It can also disconnect the home power supply connection, if there is low or zero balance in the system. And this system will reads the energy meter readings and automatically send some updates to user’s mobile phone like low balance alert, cut off alert, resume alert and recharge alert.and The word prepaid means 
 “pay before use” one of the advantageous feature of this concept prepaid energy meter is used to prepaid the 
 ongoing supply of electricity to homes, offices etc
@@ -32,16 +32,16 @@ ongoing supply of electricity to homes, offices etc
  |    HLR                        |              Description                  |  
  |-------------------------------|:------------------------------------------|
  |  HLR1                         |  It can also disconnect the home power supply connection, if there is low or zero balance in the system.   |
- | HLR2                          | system will reads the energy meter readings and  automatically send some updates to user’s mobile phone.|
- | HLR3                          | user will be responsibile for disconnections.|
+ | HLR2                          | system shall reads the energy meter readings and  automatically send some updates to user’s mobile phone.|
+ | HLR3                          | user shall be responsibile for disconnections.|
  | HLR4                           |
  
 ## Low level Requirements:
 |    LLR       |              Description                  |
 |-------------------------------|:------------------------------------------|
 | LLR1 | it automatically send some updates to user’s mobile phone like low balance alert, cut off alert, resume alert and recharge alert. |
-| LLR2 | if .|
-| LLR3 |  |
+| LLR2 | say If available balance is greater then 15 rupes then, Arduino turn on the electricity of home or office by using relay|
+| LLR3 | If balance is less then 15 rupes, ARDUINO Sends SMS to user phone regarding low balance alaret & requesting to recharge soon.  |
 | LLR4 | |
 
 
@@ -84,16 +84,20 @@ ongoing supply of electricity to homes, offices etc
 * Led lights are used to know the circuit status,means power in the circuit is present or not.
 * crystal oscillator is used to generate the proper voltage to relays in arduino.
 
+* flow chart :
+
+
 TEST PLAN :
 
 ## Table no: High level test plan
-|Test ID | Description |  Input   |   Exp O/P   |   Actual Out   |   Type Of Test   |
-|:-------|:------------|:-----------|:------------|:---------------|:-----------------|
-| HLR1 |
-
-
+|Test ID | Description |  Input   |   Exp O/P   |   
+|:-------|:------------|:-----------|:------------|
+| HLR1 | ex: If available balance is greater then 15 rupes | 15 | Arduino turn on the electricity of home or office by using relay.|
+| HLR2 | ex: If balance is less then 15 rupes | 15 |  ARDUINO Sends SMS to user phone regarding low balance alaret & requesting to rechargesoon |
+| HLR3 | ex: if balanve is less than 5 rupes | 5 | ARDUINO turn off,and power cut due to low balance |
 
 ## Table no: Low level test plan
 
-|Test ID|	Description|	 Input | Exp O/P |	Actual Out	| Type Of Test |
-|:-----|:------------|:---------|:--------|:------------|:-------------|
+|Test ID|	Description|	 Input | Exp O/P |
+|:-----|:------------|:---------|:--------|
+| LLR1 | if balance is low | 0 |  ARDUINO turn off ,power cut due to low balance|
