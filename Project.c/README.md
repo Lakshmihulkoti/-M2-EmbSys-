@@ -3,11 +3,21 @@ Description :
                     In this project we are building a automated system by using Arduino and GSM module. we can recharge the electricity balance through this system, just by sending a SMS. It can also disconnect the home power supply connection, if there is low or zero balance in the system. And this system will reads the energy meter readings and automatically send some updates to user’s mobile phone like low balance alert, cut off alert, resume alert and recharge alert.
                    
 # SWOT ANALYSIS :
-** WHO :
-WHEN :
-WHERE :
-WHY :
-HOW :
+ Strenghth:
+ * Using this project we can reduce the readings from the energy meter which is cost effective solution
+ * It is user friendly and we can enhance this project ,in which an electricity department can send meaasge to the customer about billing information.
+ * it would reduce human efforts.
+ * it provides better customer service.
+ Weakness : user will be responsibile for disconnections.
+ Opportunities:Prepaid Energy meter is a multipurpose project which can integrate all the functions like billing and automatic message responce to user.
+ Threats : user will be responsibile for disconnections.
+ # 4 W'S and 1'H 
+## WHO :
+## WHEN :
+* when we need to recharge our system, we can recharge it simply by sending a SMS to the system, through our Cellphone.
+* WHERE :
+* WHY :
+* HOW :
 
 
 
