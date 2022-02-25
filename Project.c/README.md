@@ -53,18 +53,19 @@ ongoing supply of electricity to homes, offices etc
 
 ## Arduino uno:
 ![Screenshot (42)](https://user-images.githubusercontent.com/98826329/155743782-a2c80015-f809-417d-80a3-76dfdb9bdebe.png)
+* Here we have interfaced electricity energy meter with  Arduino using pulse LED (Calibration  or cal) of electricity Energy meter.
+* We only need to connect tis CAL LED to Arduino through an optocoupler IC.
 
-## Energy Meter:
+## Analogue Energy Meter:
 ![Screenshot (52)](https://user-images.githubusercontent.com/98826329/155767374-dd8dc8c1-1eb9-4b09-ab1b-08ad1c49c517.png)
 * Energy or electrical metre is a device that measures the amount of electrical energy consumed by a residence business or any electrical covid device .
 * Electrical meteres are typically calibrated in billing units the most common one being the kilowatt hour.
-* 
+*  
 ## GSM Modern :
 ![Screenshot (53)](https://user-images.githubusercontent.com/98826329/155767574-7e036686-8e59-4b82-af24-976d30569837.png)
 * GSM modern is a specialised type of modem which accepts sim card ,and operates over subscription to a mobile operator ,just like a mobile phone.
 * From the mobile operator prospective, a GSM modem looks like just mobile phone .
-* When GSM modem is connected to computer, this allows a computer to use the GSM modem to communicate over the mobile network.
-*  While these GSM modems are most frequently used to provide mobile network connectivity many of them can also be used for sending and receiving SMS and MMS messages
+* GSM module has been used to send receive messages.
 
 ## LCD : 
 ![Screenshot (47)](https://user-images.githubusercontent.com/98826329/155748710-974898bc-56ef-49d1-bb33-3a436c36dd74.png)
@@ -78,6 +79,8 @@ ongoing supply of electricity to homes, offices etc
 
 ## EPROM :
 ![Screenshot (55)](https://user-images.githubusercontent.com/98826329/155767989-c14f6a47-041d-4738-9014-b34cd85c8da4.png)
+* When we power up the system then it reads previous values of rupees stored in EEPROM.
+* Restores them into the variables then checks the available balance with predefined value and it wil take action according to them.
 
  
 ## AUXILARY COMPONENTS :
