@@ -38,7 +38,7 @@ ongoing supply of electricity to homes, offices etc
 ![Screenshot (42)](https://user-images.githubusercontent.com/98826329/155743782-a2c80015-f809-417d-80a3-76dfdb9bdebe.png)
 
 ## Energy Meter:
-![Screenshot (47)](https://user-images.githubusercontent.com/98826329/155748710-974898bc-56ef-49d1-bb33-3a436c36dd74.png) 
+![Screenshot (52)](https://user-images.githubusercontent.com/98826329/155767374-dd8dc8c1-1eb9-4b09-ab1b-08ad1c49c517.png)
 * Energy or electrical metre is a device that measures the amount of electrical energy consumed by a residence business or any electrical covid device .
 * Electrical meteres are typically calibrated in billing units the most common one being the kilowatt hour.
 * 
