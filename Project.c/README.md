@@ -17,10 +17,25 @@ Description :
 ## WHEN :
 * when we need to recharge our system, we can recharge it simply by sending a SMS to the system, through our Cellphone.
 * WHERE :
+* 
 * WHY :
 * HOW :
 
-
+## High level Requirements:
+ |    HLR                        |              Description                  |  
+ |-------------------------------|:------------------------------------------|
+ |  HLR1                         |   It can also disconnect the home power supply connection, if there is low or zero balance in the system.   |
+ | HLR2                          | system will reads the energy meter readings and  automatically send some updates to user’s mobile phone like low balance alert, cut off alert, resume alert and recharge alert.| 
+ | HLR3                          | . |
+ | HLR4                          |  user will be responsibile for disconnections.|
+ 
+## Low level Requirements:
+|    LLR       |              Description                  |
+|-------------------------------|:------------------------------------------|
+| LLR1 | Instead of traffic lights we can use LEDs( red ,green ,yellow ) |
+| LLR2 | By receving IR sensors output,we can write the program.|
+| LLR3 | we can save a considerable amount of time |
+| LLR4 | It keeps a track of the vechiles 
 
 
 
