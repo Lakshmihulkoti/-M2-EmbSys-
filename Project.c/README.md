@@ -86,7 +86,9 @@
 * Led lights are used to know the circuit status,means power in the circuit is present or not.
 * crystal oscillator is used to generate the proper voltage to relays in arduino.
 
-* flow chart :
+# flow chart :
+![Screenshot (59)](https://user-images.githubusercontent.com/98826329/155799154-f1f4796d-182d-4038-8814-8982202c5077.png)
+
 
 
 TEST PLAN :
