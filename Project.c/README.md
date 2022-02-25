@@ -14,20 +14,23 @@ Description :
  * 
  # 4 W'S and 1'H 
 ## WHO :
+* Everyone can use the prepaid energy meter who want to have benefit of this sysyem.
 ## WHEN :
 * when we need to recharge our system, we can recharge it simply by sending a SMS to the system, through our Cellphone.
-* WHERE :
+## WHERE :
 * 
-* WHY :
-* HOW :
+## WHY : 
+* Using this project we can reduce the readings from the energy meter which is cost effective solution also it provides better customer service.
+## HOW :
+
 
 ## High level Requirements:
  |    HLR                        |              Description                  |  
  |-------------------------------|:------------------------------------------|
- |  HLR1                         |   It can also disconnect the home power supply connection, if there is low or zero balance in the system.   |
- | HLR2                          | system will reads the energy meter readings and  automatically send some updates to user’s mobile phone like low balance alert, cut off alert, resume alert and recharge alert.| 
- | HLR3                          | . |
- | HLR4                          |  user will be responsibile for disconnections.|
+ |  HLR1                         |  It can also disconnect the home power supply connection, if there is low or zero balance in the system.   |
+ | HLR2                          | system will reads the energy meter readings and  automatically send some updates to user’s mobile phone.|
+ | HLR3                          | user will be responsibile for disconnections.|
+ | HLR4                          |  |
  
 ## Low level Requirements:
 |    LLR       |              Description                  |
