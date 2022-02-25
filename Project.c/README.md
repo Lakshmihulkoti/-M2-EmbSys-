@@ -58,8 +58,12 @@ ongoing supply of electricity to homes, offices etc
 * A release is an electrically operated switch.
 *  Many relays use an electromagnet to mechanically operated switch but other operating principles are used to such a solid state relays delays.
 * Relays are used where it is necessary to control a circuit by low-power signal (with complete technique electrical isolation between control and controlled circuits). or where several circuit must be controlled by one signal
+
+## EPROM :
+![Screenshot (55)](https://user-images.githubusercontent.com/98826329/155767989-c14f6a47-041d-4738-9014-b34cd85c8da4.png)
+
  
-AUXILARY COMPONENTS :
+## AUXILARY COMPONENTS :
 * Led lights are used to know the circuit status,means power in the circuit is present or not.
 * crystal oscillator is used to generate the proper voltage to relays in arduino.
 
