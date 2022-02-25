@@ -9,6 +9,8 @@ The word prepaid means
 ongoing supply of electricity to homes, offices etc
 
 
-
+GSM Modern : A GSM modem is a speci
 Relay-A relay is an electrical switch
+
+LCD : 
 
