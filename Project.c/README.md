@@ -52,7 +52,7 @@ ongoing supply of electricity to homes, offices etc
 ## LCD : 
 ![Screenshot (47)](https://user-images.githubusercontent.com/98826329/155748710-974898bc-56ef-49d1-bb33-3a436c36dd74.png)
  * Most common LCDs connected to the ardiuno are 16*2 display. 
- * which displays the amount of power consumed.
+ * This LCD gives the consumed power,balance amount which are essential to awareness about energy consumption. 
 
 ## Relay :
 * A release is an electrically operated switch.
@@ -67,3 +67,16 @@ ongoing supply of electricity to homes, offices etc
 * Led lights are used to know the circuit status,means power in the circuit is present or not.
 * crystal oscillator is used to generate the proper voltage to relays in arduino.
 
+TEST PLAN :
+
+## Table no: High level test plan
+|Test ID | Description |  Input   |   Exp O/P   |   Actual Out   |   Type Of Test   |
+|:-------|:------------|:-----------|:------------|:---------------|:-----------------|
+| HLR1 |
+
+
+
+## Table no: Low level test plan
+
+|Test ID|	Description|	 Input | Exp O/P |	Actual Out	| Type Of Test |
+|:-----|:------------|:---------|:--------|:------------|:-------------|
