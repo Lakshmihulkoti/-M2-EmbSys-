@@ -59,7 +59,7 @@
 ![Screenshot (52)](https://user-images.githubusercontent.com/98826329/155767374-dd8dc8c1-1eb9-4b09-ab1b-08ad1c49c517.png)
 * Energy or electrical metre is a device that measures the amount of electrical energy consumed by a residence business or any electrical covid device .
 * Electrical meteres are typically calibrated in billing units the most common one being the kilowatt hour.
-*  
+
 ## GSM Modern :
 ![Screenshot (53)](https://user-images.githubusercontent.com/98826329/155767574-7e036686-8e59-4b82-af24-976d30569837.png)
 * GSM modern is a specialised type of modem which accepts sim card ,and operates over subscription to a mobile operator ,just like a mobile phone.
