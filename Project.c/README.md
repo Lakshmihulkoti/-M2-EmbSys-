@@ -1,6 +1,9 @@
 # Prepaid Energy Meter using Arduino and GSM
 Description :
-                    In this project we are building a automated system by using Arduino and GSM module. we can recharge the electricity balance through this system, just by sending a SMS. It can also disconnect the home power supply connection, if there is low or zero balance in the system. And this system will reads the energy meter readings and automatically send some updates to user’s mobile phone like low balance alert, cut off alert, resume alert and recharge alert.
+                    In this project we are building a automated system by using Arduino and GSM module. we can recharge the electricity balance through this system, just by sending a SMS. It can also disconnect the home power supply connection, if there is low or zero balance in the system. And this system will reads the energy meter readings and automatically send some updates to user’s mobile phone like low balance alert, cut off alert, resume alert and recharge alert.and The word prepaid means 
+“pay before use” one of the advantageous feature of this concept prepaid energy meter is used to prepaid the 
+ongoing supply of electricity to homes, offices etc
+
                    
 # SWOT ANALYSIS :
  Strenghth:
@@ -9,19 +12,20 @@ Description :
  * it would reduce human efforts.
  * it provides better customer service.
  * Weakness : user will be responsibile for disconnections.
- * Opportunities:Prepaid Energy meter is a multipurpose project which can integrate all the functions like billing and automatic message responce to user.
+ * Opportunities : Prepaid Energy meter is a multipurpose project which can integrate all the functions like billing and automatic message responce to user.
  * Threats : user will be responsibile for disconnections.
- * 
+ 
  # 4 W'S and 1'H 
 ## WHO :
 * Everyone can use the prepaid energy meter who want to have benefit of this sysyem.
 ## WHEN :
 * when we need to recharge our system, we can recharge it simply by sending a SMS to the system, through our Cellphone.
 ## WHERE :
-* 
+* User can can access this application using any embedded c compiler
 ## WHY : 
 * Using this project we can reduce the readings from the energy meter which is cost effective solution also it provides better customer service.
-## HOW :
+## HOW : 
+* These meters are opertaes based on the amount available at meters. 
 
 
 ## High level Requirements:
@@ -30,27 +34,22 @@ Description :
  |  HLR1                         |  It can also disconnect the home power supply connection, if there is low or zero balance in the system.   |
  | HLR2                          | system will reads the energy meter readings and  automatically send some updates to user’s mobile phone.|
  | HLR3                          | user will be responsibile for disconnections.|
- | HLR4                          |  |
+ | HLR4                           |
  
 ## Low level Requirements:
 |    LLR       |              Description                  |
 |-------------------------------|:------------------------------------------|
-| LLR1 | Instead of traffic lights we can use LEDs( red ,green ,yellow ) |
-| LLR2 | By receving IR sensors output,we can write the program.|
-| LLR3 | we can save a considerable amount of time |
-| LLR4 | It keeps a track of the vechiles 
-
-
+| LLR1 | it automatically send some updates to user’s mobile phone like low balance alert, cut off alert, resume alert and recharge alert. |
+| LLR2 | if .|
+| LLR3 |  |
+| LLR4 | |
 
 
 
 
 ## Block Diagram
 ![arduino_and_gsm_based_prepaid_energy_meter_w7C8Rqc1J8](https://user-images.githubusercontent.com/98826329/155730980-46400784-f4d2-431c-94a7-536595695d88.png)
-
-The word prepaid means 
-“pay before use” one of the advantageous feature of this concept prepaid energy meter is used to prepaid the 
-ongoing supply of electricity to homes, offices etc
+## components Required :
 
 ## Arduino uno:
 ![Screenshot (42)](https://user-images.githubusercontent.com/98826329/155743782-a2c80015-f809-417d-80a3-76dfdb9bdebe.png)
