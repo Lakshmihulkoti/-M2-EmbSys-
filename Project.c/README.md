@@ -11,11 +11,11 @@
  * it would reduce human efforts.
  * it provides better customer service.
  ##   Weakness: 
- * user will be responsibile for disconnections of the home power supply.
+     * user will be responsibile for disconnections of the home power supply.
  ## Opportunities :
-  * Prepaid Energy meter is a multipurpose project which can integrate all the functions like billing and automatic message responce to user.
+      * Prepaid Energy meter is a multipurpose project which can integrate all the functions like billing and automatic message responce to user.
  ## Threats :
-  * user will be responsibile for disconnections of the home power supply.
+     * user will be responsibile for disconnections of the home power supply.
  
  # 4 W'S and 1'H 
 ## WHO :
