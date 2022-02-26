@@ -30,17 +30,17 @@
 ## High level Requirements:
  |    HLR                        |              Description                  |  
  |-------------------------------|:------------------------------------------|
- |  HLR1                         | It shall disconnect the home power supply connection  |
+ |  HLR1                         | It shall disconnect the home power supply connection.  |
  | HLR2                          | system shall reads the energy meter readings and  automatically send some updates to user’s mobile phone.|
  | HLR3                          | user shall be responsibile for disconnections of the home power supply.|
- | HLR4                           | These meters are opertaes based on the amount available at meters.|
+ | HLR4                           | These meters are operates based on the amount available at meters.|
  
 ## Low level Requirements:
 |    LLR       |              Description                  |
 |-------------------------------|:------------------------------------------|
 | LLR1 | it automatically send some updates to user’s mobile phone like low balance alert, cut off alert, resume alert and recharge alert. |
-| LLR2 | say If available balance is greater then 15 rupes then, ARDUINO turn on the electricity of home or office by using relay|
-| LLR3 | If balance is less then 15 rupes, ARDUINO Sends SMS to user phone regarding low balance alaret & requesting to recharge soon.  |
+| LLR2 | say If available balance is greater then 15 rupes then, ARDUINO turn on the electricity of home or office by using relay.|
+| LLR3 | If balance is less then 15 rupes, ARDUINO Sends SMS to the user phone regarding low balance alaret & requesting to recharge soon.  |
 | LLR4 | If balance is low or zero ,then ARDUINO shall turn off and power cutoff due to low balance.|
 
 
@@ -97,8 +97,8 @@ TEST PLAN :
 |Test ID | Description |  Input   |   Exp O/P   |   
 |:-------|:------------|:-----------|:------------|
 | HLR1 | ex: If available balance is greater then 15 rupes | 15 | Arduino turn on the electricity of home or office by using relay.|
-| HLR2 | ex: If balance is less then 15 rupes | 15 |  ARDUINO Sends SMS to user phone regarding low balance alaret & requesting to rechargesoon |
-| HLR3 | ex: if balanve is less than 5 rupes | 5 | ARDUINO turn off,and power cut due to low balance |
+| HLR2 | ex: If balance is less then 15 rupes | 15 |  ARDUINO Sends SMS to user phone regarding low balance alaret & requesting to rechargesoon. |
+| HLR3 | ex: if balance is less than 5 rupes | 5 | ARDUINO turn off,and power cut due to low balance.|
 
 ## Table no: Low level test plan
 
