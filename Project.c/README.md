@@ -1,7 +1,7 @@
 # Prepaid Energy Meter using Arduino and GSM
 # Description :
                
- In this project we are building a automated system by using Arduino and GSM module. we can recharge the electricity balance through this system,just by sending a SMS. It can also disconnect the home power supply connection, if there is low or zero balance in the system. And this system will reads the energy meter readings and automatically send some updates to user’s mobile phone like low balance alert, cut off alert, resume alert and recharge alert. and The word prepaid means"pay before use” one of the advantageous feature of this concept prepaid energy meter is used to prepaid the ongoing supply of electricity to homes, offices etc
+ In this project we are building a automated system by using Arduino and GSM module. we can recharge the electricity balance through this system,just by sending a SMS. It can also disconnect the home power supply connection, if there is low or zero balance in the system. And this system will reads the energy meter readings and automatically send some updates to user’s mobile phone like low balance alert, cut off alert, resume alert and recharge alert. and The word prepaid means"pay before use” one of the advantageous feature of this concept prepaid energy meter is used to prepaid the ongoing supply of electricity to homes, offices etc.
 
                    
 # SWOT ANALYSIS :
@@ -20,9 +20,9 @@
 ## WHEN :
 * when we need to recharge our system, we can recharge it simply by sending a SMS to the system, through our Cellphone.
 ## WHERE :
-* User can can access this application using any embedded c compiler
-## WHY : 
-* Using this project we can reduce the readings from the energy meter which is cost effective solution also it provides better customer service.
+* User can can access this application using any embedded c compiler.
+## WHAT : 
+* Prepaid meters allow consumers to track their electricity usage in real time. This can incentivise customers to save money by reducing use of power-guzzling appliances if they feel that their power usage is spiralling out of their household budget.
 ## HOW : 
 * These meters are opertaes based on the amount available at meters. 
 
@@ -30,18 +30,18 @@
 ## High level Requirements:
  |    HLR                        |              Description                  |  
  |-------------------------------|:------------------------------------------|
- |  HLR1                         |  It can also disconnect the home power supply connection, if there is low or zero balance in the system.   |
+ |  HLR1                         | It shall disconnect the home power supply connection  |
  | HLR2                          | system shall reads the energy meter readings and  automatically send some updates to user’s mobile phone.|
- | HLR3                          | user shall be responsibile for disconnections.|
- | HLR4                           |
+ | HLR3                          | user shall be responsibile for disconnections of the home power supply.|
+ | HLR4                           | These meters are opertaes based on the amount available at meters.|
  
 ## Low level Requirements:
 |    LLR       |              Description                  |
 |-------------------------------|:------------------------------------------|
 | LLR1 | it automatically send some updates to user’s mobile phone like low balance alert, cut off alert, resume alert and recharge alert. |
-| LLR2 | say If available balance is greater then 15 rupes then, Arduino turn on the electricity of home or office by using relay|
+| LLR2 | say If available balance is greater then 15 rupes then, ARDUINO turn on the electricity of home or office by using relay|
 | LLR3 | If balance is less then 15 rupes, ARDUINO Sends SMS to user phone regarding low balance alaret & requesting to recharge soon.  |
-| LLR4 | |
+| LLR4 | If balance is low or zero ,then ARDUINO shall turn off and power cutoff due to low balance.|
 
 
 
@@ -57,14 +57,14 @@
 
 ## Analogue Energy Meter:
 ![Screenshot (52)](https://user-images.githubusercontent.com/98826329/155767374-dd8dc8c1-1eb9-4b09-ab1b-08ad1c49c517.png)
-* Energy or electrical metre is a device that measures the amount of electrical energy consumed by a residence business or any electrical covid device .
+* Energy or electrical meter is a device that measures the amount of electrical energy consumed by a residence business or any electrically- powered device .
 * Electrical meteres are typically calibrated in billing units the most common one being the kilowatt hour.
 
 ## GSM Modern :
 ![Screenshot (53)](https://user-images.githubusercontent.com/98826329/155767574-7e036686-8e59-4b82-af24-976d30569837.png)
 * GSM modern is a specialised type of modem which accepts sim card ,and operates over subscription to a mobile operator ,just like a mobile phone.
 * From the mobile operator prospective, a GSM modem looks like just mobile phone .
-* GSM module has been used to send receive messages.
+* GSM module has been used to send & receive messages.
 
 ## LCD : 
 ![Screenshot (47)](https://user-images.githubusercontent.com/98826329/155748710-974898bc-56ef-49d1-bb33-3a436c36dd74.png)
