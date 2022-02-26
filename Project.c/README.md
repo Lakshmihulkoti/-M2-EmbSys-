@@ -55,7 +55,7 @@
 * Here we have interfaced electricity energy meter with  Arduino using pulse LED (Calibration  or cal) of electricity Energy meter.
 * We only need to connect tis CAL LED to Arduino through an optocoupler IC.
 
-## Analogue Energy Meter:
+## Analogue Electrical Energy Meter:
 ![Screenshot (52)](https://user-images.githubusercontent.com/98826329/155767374-dd8dc8c1-1eb9-4b09-ab1b-08ad1c49c517.png)
 * Energy or electrical meter is a device that measures the amount of electrical energy consumed by a residence business or any electrically- powered device .
 * Electrical meteres are typically calibrated in billing units the most common one being the kilowatt hour.
