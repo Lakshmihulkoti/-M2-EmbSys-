@@ -92,7 +92,7 @@
 
 
 
-TEST PLAN :
+# TEST PLAN :
 
 ## Table no: High level test plan
 |Test ID | Description |  Input   |   Exp O/P   |   
