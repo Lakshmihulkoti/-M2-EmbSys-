@@ -10,11 +10,11 @@
  * It is user friendly and we can enhance this project ,in which an electricity department can send meaasge to the customer about billing information.
  * it would reduce human efforts.
  * it provides better customer service.
- ## Weakness 
+ ## Weakness: 
  * user will be responsibile for disconnections of the home power supply.
-  ## Opportunities :
+ ## Opportunities :
   * Prepaid Energy meter is a multipurpose project which can integrate all the functions like billing and automatic message responce to user.
-  ## Threats :
+ ## Threats :
   * user will be responsibile for disconnections of the home power supply.
  
  # 4 W'S and 1'H 
@@ -25,7 +25,7 @@
 ## WHEN :
 * when we need to recharge our system, we can recharge it simply by sending a SMS to the system, through our Cellphone.
 ## WHERE :
-* User can can access this application using any embedded c compiler.
+* User can  access this application using any embedded C compiler.
 
 ## HOW : 
 * These meters are opertaes based on the amount available at meters. 
@@ -63,7 +63,7 @@
 ## Analogue Electrical Energy Meter:
 ![Screenshot (52)](https://user-images.githubusercontent.com/98826329/155767374-dd8dc8c1-1eb9-4b09-ab1b-08ad1c49c517.png)
 * Energy or electrical meter is a device that measures the amount of electrical energy consumed by a residence business or any electrically- powered device .
-* Electrical meteres are typically calibrated in billing units the most common one being the kilowatt hour.
+* Electrical meters are typically calibrated in billing units the most common one being the kilowatt hour.
 
 ## GSM Modern :
 ![Screenshot (53)](https://user-images.githubusercontent.com/98826329/155767574-7e036686-8e59-4b82-af24-976d30569837.png)
