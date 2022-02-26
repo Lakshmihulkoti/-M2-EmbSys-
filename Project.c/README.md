@@ -5,16 +5,16 @@
 
                    
 # SWOT ANALYSIS :
- Strength:
+ ## Strength:
  * Using this project we can reduce the readings from the energy meter which is cost effective solution
  * It is user friendly and we can enhance this project ,in which an electricity department can send meaasge to the customer about billing information.
  * it would reduce human efforts.
  * it provides better customer service.
- Weakness 
+ ## Weakness 
  * user will be responsibile for disconnections of the home power supply.
-  Opportunities :
+  ## Opportunities :
   * Prepaid Energy meter is a multipurpose project which can integrate all the functions like billing and automatic message responce to user.
-  Threats :
+  ## Threats :
   * user will be responsibile for disconnections of the home power supply.
  
  # 4 W'S and 1'H 
