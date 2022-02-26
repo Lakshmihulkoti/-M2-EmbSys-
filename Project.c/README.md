@@ -5,24 +5,28 @@
 
                    
 # SWOT ANALYSIS :
- Strenghth:
+ Strength:
  * Using this project we can reduce the readings from the energy meter which is cost effective solution
  * It is user friendly and we can enhance this project ,in which an electricity department can send meaasge to the customer about billing information.
  * it would reduce human efforts.
  * it provides better customer service.
- * Weakness : user will be responsibile for disconnections of the home power supply.
- * Opportunities : Prepaid Energy meter is a multipurpose project which can integrate all the functions like billing and automatic message responce to user.
- * Threats : user will be responsibile for disconnections of the home power supply.
+ Weakness 
+ * user will be responsibile for disconnections of the home power supply.
+  Opportunities :
+  * Prepaid Energy meter is a multipurpose project which can integrate all the functions like billing and automatic message responce to user.
+  Threats :
+  * user will be responsibile for disconnections of the home power supply.
  
  # 4 W'S and 1'H 
 ## WHO :
 * Everyone can use the prepaid energy meter who want to have benefit of this sysyem.
+ ## WHAT : 
+* Prepaid meters allow consumers to track their electricity usage in real time. This can incentivise customers to save money by reducing use of power-guzzling appliances if they feel that their power usage is spiralling out of their household budget.
 ## WHEN :
 * when we need to recharge our system, we can recharge it simply by sending a SMS to the system, through our Cellphone.
 ## WHERE :
 * User can can access this application using any embedded c compiler.
-## WHAT : 
-* Prepaid meters allow consumers to track their electricity usage in real time. This can incentivise customers to save money by reducing use of power-guzzling appliances if they feel that their power usage is spiralling out of their household budget.
+
 ## HOW : 
 * These meters are opertaes based on the amount available at meters. 
 
