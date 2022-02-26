@@ -21,7 +21,8 @@
 ## WHO :
 * Everyone can use the prepaid energy meter who want to have benefit of this sysyem.
  ## WHAT : 
-* Prepaid meters allow consumers to track their electricity usage in real time. This can incentivise customers to save money by reducing use of power-guzzling appliances if they feel that their power usage is spiralling out of their household budget.
+* Prepaid meters allow consumers to track their electricity usage in real time. 
+* This can incentivise customers to save money by reducing use of power-guzzling appliances if they feel that their power usage is spiralling out of their household budget.
 ## WHEN :
 * when we need to recharge our system, we can recharge it simply by sending a SMS to the system, through our Cellphone.
 ## WHERE :
