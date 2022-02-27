@@ -54,6 +54,7 @@
 
 ## Block Diagram
 ![arduino_and_gsm_based_prepaid_energy_meter_w7C8Rqc1J8](https://user-images.githubusercontent.com/98826329/155730980-46400784-f4d2-431c-94a7-536595695d88.png)
+
 The block diagram of the proposed system is shown in
 Fig1. It consists of Arduino UNO, GSM module, relay,
 energy meter, 16x2 LCD, mobile (to send recharge SMS).
@@ -86,8 +87,9 @@ energy meter both.
 
 ## LCD : 
 ![Screenshot (47)](https://user-images.githubusercontent.com/98826329/155748710-974898bc-56ef-49d1-bb33-3a436c36dd74.png)
- * Most common LCDs connected to the ardiuno are 16*2 display. 
- * This LCD gives the consumed power,balance amount which are essential to awareness about energy consumption. 
+ * The Term LCD stand ,for liquid crystal display and Most common LCDs connected to the ardiuno are 16*2 display. 
+ * A liquid display is connected for displaying the status of Units and
+remaining balance.
 
 ## Relay :
 * A release is an electrically operated switch.
