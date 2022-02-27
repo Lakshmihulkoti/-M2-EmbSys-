@@ -54,6 +54,18 @@
 
 ## Block Diagram
 ![arduino_and_gsm_based_prepaid_energy_meter_w7C8Rqc1J8](https://user-images.githubusercontent.com/98826329/155730980-46400784-f4d2-431c-94a7-536595695d88.png)
+The block diagram of the proposed system is shown in
+Fig1. It consists of Arduino UNO, GSM module, relay,
+energy meter, 16x2 LCD, mobile (to send recharge SMS).
+The pre-paid energy meter works as, the user first will
+send recharge SMS via mobile which will be received by
+sim card placed in GSM module, as soon as recharge
+completes, a message will be sent to Arduino UNO which
+will process the message and will be passed on to LCD
+screen (which will show recharge completion message)
+and also to relay which is connected to Arduino and
+energy meter both. 
+
 ## components Required :
 
 ## Arduino uno:
