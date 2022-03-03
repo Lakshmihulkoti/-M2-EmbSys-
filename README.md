@@ -1,9 +1,5 @@
 # Prepaid Energy Meter using Arduino and GSM
------------------------------------------------------------------------------------------------------------------------------------------------
-# Code Analysis :
-|       Codiga     |          Codacy             |       Cpp check       |       Git inspector    |
-|-------------------------------|:------------------------------------------|:------------------------------------------------|:-------------------------------|
-|gjhgjh  |   jgkjgk |jkhkjhk|hvmhvjh|gjgjhgj|
+
 
 # Folder structure :
 |     Folder Name               |              Description                  |
