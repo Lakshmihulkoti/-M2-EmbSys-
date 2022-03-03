@@ -3,6 +3,31 @@
                
  In this project we are building a automated system by using Arduino and GSM module. we can recharge the electricity balance through this system,just by sending a SMS. It can also disconnect the home power supply connection, if there is low or zero balance in the system. And this system will reads the energy meter readings and automatically send some updates to user’s mobile phone like low balance alert, cut off alert, resume alert and recharge alert. and The word prepaid means"pay before use” one of the advantageous feature of this concept prepaid energy meter is used to prepaid the ongoing supply of electricity to homes, offices etc.
  
+ 
+ 
+
+|       Codiga     |          Codacy             |       Cpp check       |       Git inspector    |
+|-------------------------------|:------------------------------------------|:------------------------------------------------|:-------------------------------|
+|gjhgjh  |   jgkjgk |jkhkjhk|hvmhvjh|gjgjhgj|
+
+
+|     Folder Name               |              Description                  |
+|-------------------------------|:------------------------------------------| 
+|1_Reuriments	|Documents detailing requirements and research
+|2_Design	Documents specifying design|
+|3_Implemenation|	All codes and Documentation|
+|4_Testplan |	Documents with test plans|
+|5_Report|	Documentation of whole project|
+|6_Images	|All the images of this project|
+
+| 1_Requirements |  |
+| 2_Architecture | Documents of Behavioral and Structural Diagrams with Respect HLR and LLR||
+|3_Implementation| All codes and documentationof makefile ,inc,src etc  |
+| 4_TestPlanAndOutput | Documents with test plans and status |
+| 5_Report        |  Documentation of all folders and Videos of mini project |
+| 6_ImagesandVideos | Documentations of Screenshots of results and videos |
+| 7_Others     |  Documentations of references and data sheets |
+ 
  # Abstract :
  PRE-PAID ENERGY METER based technology which is
 found by Thomas Edison. PRE-PAID ENERGY METER
