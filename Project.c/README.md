@@ -5,6 +5,8 @@
 |gjhgjh  |   jgkjgk |jkhkjhk|hvmhvjh|gjgjhgj|
 
 
+# Folder structure :
+
 |     Folder Name               |              Description                  |
 |-------------------------------|:------------------------------------------| 
 |1_Reuriments	|Documents detailing requirements and research
