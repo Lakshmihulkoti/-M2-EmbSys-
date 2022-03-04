@@ -24,6 +24,9 @@ measures like safety, accuracy, environment friendly, etc.
 
                    
 # SWOT ANALYSIS :
+
+![swot](https://user-images.githubusercontent.com/98826329/156692082-ebe1ad15-f109-49b5-af80-bb01a1389404.jpg)
+
  ## Strength:
  * Using this project we can reduce the readings from the energy meter which is cost effective solution
  * It is user friendly and we can enhance this project ,in which an electricity department can send meaasge to the customer about billing information.
