@@ -1,6 +1,6 @@
 # Description :
          
-         In this project we are going to design a circuit for measuring temperature. This circuit is developed using “Atmega328”, Temperature is usually measured in “Centigrade” or “Faraheite” .It is used to maintain the heat in the vehicles in cold weather and  Temperature modification can be done easily.
+In this project we are going to design a circuit for measuring temperature. This circuit is developed using “Atmega328”, Temperature is usually measured in “Centigrade” or “Faraheite” .It is used to maintain the heat in the vehicles in cold weather and  Temperature modification can be done easily.
  
 # Code Analysis :
 |       Codiga     |          Codacy             |       Cpp check       |       Git inspector    |
