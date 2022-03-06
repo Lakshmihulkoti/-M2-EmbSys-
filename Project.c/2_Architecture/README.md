@@ -1,8 +1,5 @@
-# flow chart :
-![Screenshot (62)](https://user-images.githubusercontent.com/98826329/155869903-1797caac-9b61-4bc4-937d-18843a8817d6.png)
+## Arduino uno:
+![Screenshot (42)](https://user-images.githubusercontent.com/98826329/155743782-a2c80015-f809-417d-80a3-76dfdb9bdebe.png)
 
-
-# Structure Diagram :
-![Screenshot (66)](https://user-images.githubusercontent.com/98826329/155869831-7695ba11-f2f3-4e1e-b2d8-95b63802ee1d.png)
-
-# Behavior Diagram :
+## LCD : 
+![Screenshot (47)](https://user-images.githubusercontent.com/98826329/155748710-974898bc-56ef-49d1-bb33-3a436c36dd74.png)
