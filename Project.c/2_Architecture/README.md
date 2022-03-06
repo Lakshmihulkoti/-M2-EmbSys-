@@ -2,6 +2,9 @@
 # BLOCK DIAGRAM :
 ![Screenshot (172)](https://user-images.githubusercontent.com/98826329/156936425-32d65a0c-5d59-4476-8683-f2002e53591a.png)
 
+Components Required :
+1)
+
 ## Arduino uno:
 ![Screenshot (42)](https://user-images.githubusercontent.com/98826329/155743782-a2c80015-f809-417d-80a3-76dfdb9bdebe.png)
 *	It  controls the whole process of this system like reading LPG Gas sensor module output, sending message to LCD and activating buzzer 
