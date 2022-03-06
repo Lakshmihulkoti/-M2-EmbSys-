@@ -1,4 +1,8 @@
 # Prepaid Energy Meter using Arduino and GSM
+
+
+
+
 # Description :
                
  In this project we are building a automated system by using Arduino and GSM module. we can recharge the electricity balance through this system,just by sending a SMS. It can also disconnect the home power supply connection, if there is low or zero balance in the system. And this system will reads the energy meter readings and automatically send some updates to user’s mobile phone like low balance alert, cut off alert, resume alert and recharge alert. and The word prepaid means"pay before use” one of the advantageous feature of this concept prepaid energy meter is used to prepaid the ongoing supply of electricity to homes, offices etc.
@@ -147,3 +151,24 @@ remaining balance.
 |Test ID|	Description|	 Input | Exp O/P |
 |:-----|:------------|:---------|:--------|
 | LLR1 | if balance is low | 0 |  ARDUINO turn off ,power cut due to low balance|
+
+
+|       Codiga     |          Codacy             |       Cpp check       |       Git inspector    |
+|-------------------------------|:------------------------------------------|:------------------------------------------------|:-------------------------------|
+|gjhgjh  |   jgkjgk |jkhkjhk|hvmhvjh|gjgjhgj|
+
+
+# Folder structure :
+
+|     Folder Name               |              Description                  |
+|-------------------------------|:------------------------------------------| 
+|1_Reuriments	|Documents detailing requirements and research
+|2_Architeture	|Documents specifying design|
+|3_Implemenation|	All codes and Documentation|
+|4_Testplan |	Documents with test plans|
+|5_Report|	Documentation of whole project|
+|6_Images	|All the images of this project|
+
+
+
+
