@@ -4,7 +4,14 @@
 
 
 ## Abstract:
- This project has a gas leakage detector implemented by using an LPG Gas sensor. A Gas sensor is used to detect dangerous gas leaks in the kitchen or near the gas heater. Ideal to detect dangerous gas leaks in the kitchen. The sensor can also sense LPG and Coal Gas as well as Ideal sensor for use to detect the presence of a dangerous LPG leak in your car or in a service station, storage tank environment. This unit can be easily incorporated into an alarm unit, to sound an alarm or give a visual indication of the LPG concentration .The sensor has excellent sensitivity combined with a quick response time.the propsed system will help in giving better protection to life and propety.
+ This project has a gas leakage detector implemented by using an LPG Gas sensor.LPG is an essential need of every household,To alert on LPG leakage and prevent any mishappening there are various products to detect the leakage. Here we have developed an Arduino based LPG gas detector alarm. If gas leakage occurs, this system detects it and makes an alert by buzing the buzzer attached with the circuit A Gas sensor is used to detect dangerous gas leaks in the kitchen or near the gas heater. Ideal to detect dangerous gas leaks in the kitchen. The sensor can also sense LPG and Coal Gas as well as Ideal sensor for use to detect the presence of a dangerous LPG leak in your car or in a service station, storage tank environment. 
+ 
+ ## Identifying features :
+ * This module contains a MQ3 sensor which actually detects LPG gas.
+ * It gives a HIGH output when LPG gas  is sensed. 
+ * A potentiometer is also used for controlling sensitivity of gas sensing.
+ * Arduino controls the whole process of this system like reading LPG Gas sensor module output, sending message to LCD and activating buzzer.  
+
  
  
                  
