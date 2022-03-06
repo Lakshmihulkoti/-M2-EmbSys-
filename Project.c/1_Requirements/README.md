@@ -29,6 +29,8 @@
  * No prevention of fires possible with kit
 
  # 4 W'S and 1'H 
+ ![Screenshot (168)](https://user-images.githubusercontent.com/98826329/156935676-4ad15208-1a17-48cc-aae6-beca00498b06.png)
+
 
 # Detail Requirements :
 
@@ -43,9 +45,7 @@
 ## Low level Requirements:
 |    LLR       |              Description                  |
 |-------------------------------|:------------------------------------------|
-| LLR1 | This system triggers LED and buzzer to alert people when LPG leakage is detected |
- LED get turn on when .|
-| LLR2 | LPG leakage detection is essential to prevent 
-accidents and to save human lives.  |
+| LLR1 | This system triggers LED and buzzer to alert people when LPG leakage is detected LED get turn on when .|
+| LLR2 | LPG leakage detection is essential to prevent accidents and to save human lives.  |
 
 
