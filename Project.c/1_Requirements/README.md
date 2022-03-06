@@ -47,5 +47,5 @@
 |-------------------------------|:------------------------------------------|
 | LLR1 | This system triggers LED and buzzer to alert people when LPG leakage is detected LED get turn on when .|
 | LLR2 | LPG leakage detection is essential to prevent accidents and to save human lives.  |
-
+| LLR3 | It shall alert through Buzzer when system detects LPG GAS |
 
