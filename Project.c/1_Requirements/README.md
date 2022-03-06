@@ -1,69 +1,53 @@
 # Description :
          
-In this project we are going to design a circuit for measuring temperature. This circuit is developed using “Atmega328”, Temperature is usually measured in “Centigrade” or “Faraheite” .It is used to maintain the heat in the vehicles in cold weather and  Temperature modification can be done easily.
- 
-# Code Analysis :
-|       Codiga     |          Codacy             |       Cpp check       |       Git inspector    |
-|-------------------------------|:------------------------------------------|:------------------------------------------------|:-------------------------------|
-|gjhgjh  |   jgkjgk |jkhkjhk|hvmhvjh|gjgjhgj|
- 
- 
- # Abstract :
- 
+LPG GAS DETECTOR:
+
+## Introduction:
+	Gas leakage detection is the process of identifying hazardous gas leaks by means of various sensors. These sensors usually employ an audible alarm to alert people when a dangerous gas has been detected.
 
 
-                   
+## Abstract:
+ This project has a gas leakage detector implemented by using an LPG Gas sensor. A Gas sensor is used to detect dangerous gas leaks in the kitchen or near the gas heater. Ideal to detect dangerous gas leaks in the kitchen. The sensor can also sense LPG and Coal Gas as well as Ideal sensor for use to detect the presence of a dangerous LPG leak in your car or in a service station, storage tank environment. This unit can be easily incorporated into an alarm unit, to sound an alarm or give a visual indication of the LPG concentration .The sensor has excellent sensitivity combined with a quick response time.the propsed system will help in giving better protection to life and propety.
+ 
+                 
 # SWOT ANALYSIS :
 
 ![swot](https://user-images.githubusercontent.com/98826329/156692082-ebe1ad15-f109-49b5-af80-bb01a1389404.jpg)
 
  ## Strength:
  
-* Temperature modification can be done easily.
-* Cost effective.
-* Heat generation is fast.
+* A Gas sensor is used to detect dangerous gas leaks in the kitchen or near the gas heater.
+* The sensor has excellent sensitivity combined with a quick response time..
+* This system provides quick response rate and diffusion if the critical situation can be made faster than the manual mathods
 
+## Weakness:
+* It may lead to fetal disaster and may cause human and material loss.
 
- ##   Weakness:
- * Need dry bags to store the heater.
-* Mostly applicable in countries with low temperature.
-* Not water proof.
-  
- ## Opportunities :
- * By implementing both heater and AC
+## Opportunities :
+ * These sensors usually employ an audible alarm to alert people when a dangerous gas has been detected
+ * The propsed system will help in giving better protection to life and propety.
   
  ## Threats :
- * Can't use in high temperature areas.
-* High electrical resistance could cause the heater pad in the seat to overheat.
- 
- # 4 W'S and 1'H 
-## WHY :
-To maintain the heat in the vehicles in cold weather.
- ## WHAT : 
-* Temperature measurement system to measure,control and generate heat.
-## WHEN :
-* In vehicles at low temperature areas.
-* User can  access this application using any embedded C compiler.
+ * No prevention of fires possible with kit
 
-## HOW : 
-* By installing the system in vehicles.
+ # 4 W'S and 1'H 
 
 # Detail Requirements :
 
 ## High level Requirements:
  |    HLR                        |              Description                  |  
  |-------------------------------|:------------------------------------------|
- |  HLR1                         | It shall disconnect the home power supply connection.  |
- | HLR2                          | system shall reads the energy meter readings and  automatically send some updates to user’s mobile phone.|
- | HLR3                          | user shall be responsibile for disconnections of the home power supply.|
- | HLR4                           | These meters are operates based on the amount available at meters.|
+ |  HLR1                         | User shall get notify when LPG Gas is sensed  |
+ | HLR2                          | User shall not get notify when no LPG Gas is sensed |
+ | HLR3                          | user shall get better protection to life and property | 
+
  
 ## Low level Requirements:
 |    LLR       |              Description                  |
 |-------------------------------|:------------------------------------------|
-| LLR1 | it automatically send some updates to user’s mobile phone like low balance alert, cut off alert, resume alert and recharge alert. |
-| LLR2 | say If available balance is greater then 15 rupes then, ARDUINO turn on the electricity of home or office by using relay.|
-| LLR3 | If balance is less then 15 rupes, ARDUINO Sends SMS to the user phone regarding low balance alaret & requesting to recharge soon.  |
-| LLR4 | If balance is low or zero ,then ARDUINO shall turn off and power cutoff due to low balance.|
+| LLR1 | This system triggers LED and buzzer to alert people when LPG leakage is detected |
+ LED get turn on when .|
+| LLR2 | LPG leakage detection is essential to prevent 
+accidents and to save human lives.  |
 
 
