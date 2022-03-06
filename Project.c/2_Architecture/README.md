@@ -2,8 +2,14 @@
 # BLOCK DIAGRAM :
 ![Screenshot (172)](https://user-images.githubusercontent.com/98826329/156936425-32d65a0c-5d59-4476-8683-f2002e53591a.png)
 
-Components Required :
-1)
+## Components Required :
+1) Arduino uno
+2) 16x2 LCD Display
+3) MQ2 Gas sensor
+4) 10k potentioometer
+5) ADC
+6) Buzzer
+7) 5v charge
 
 ## Arduino uno:
 ![Screenshot (42)](https://user-images.githubusercontent.com/98826329/155743782-a2c80015-f809-417d-80a3-76dfdb9bdebe.png)
