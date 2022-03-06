@@ -38,7 +38,8 @@
 •	A buzzer or beeper is a audio signaling device, usually electronic, typically used in automobiles, household appliances such as a microwave oven, or game shows .
 •	A buzzer is turned on after LPG gas leakage so it acts as a gas leakage alarm
 
-# Flow chart
+# Behavioral Diagram :
+## Flow chart
 ![flow chart](https://user-images.githubusercontent.com/98826329/156937044-90140fc4-c3ff-40bb-afa5-b7fff8e92452.png)
 
 
