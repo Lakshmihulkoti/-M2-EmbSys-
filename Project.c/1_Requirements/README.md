@@ -1,13 +1,11 @@
-# Description :
-         
-LPG GAS DETECTOR:
 
-## Introduction:
-	Gas leakage detection is the process of identifying hazardous gas leaks by means of various sensors. These sensors usually employ an audible alarm to alert people when a dangerous gas has been detected.
+         
+# LPG GAS DETECTOR using Arduino :
 
 
 ## Abstract:
  This project has a gas leakage detector implemented by using an LPG Gas sensor. A Gas sensor is used to detect dangerous gas leaks in the kitchen or near the gas heater. Ideal to detect dangerous gas leaks in the kitchen. The sensor can also sense LPG and Coal Gas as well as Ideal sensor for use to detect the presence of a dangerous LPG leak in your car or in a service station, storage tank environment. This unit can be easily incorporated into an alarm unit, to sound an alarm or give a visual indication of the LPG concentration .The sensor has excellent sensitivity combined with a quick response time.the propsed system will help in giving better protection to life and propety.
+ 
  
                  
 # SWOT ANALYSIS :
