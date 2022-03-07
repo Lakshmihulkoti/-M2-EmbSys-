@@ -26,7 +26,6 @@
 * The Term LCD stand ,for liquid crystal display and Most common LCDs connected to the ardiuno are 16*2 display
 *	It is necessary requirement to put a display about system monitoring and controlling performance, which displays the various messages such as leakage of gas detection
 
-
 ## LPG Gas Sensor :
 
 ![sensor](https://user-images.githubusercontent.com/98826329/156936431-bd128bde-0e77-47b7-b7fb-90541b6b86f4.png)
@@ -45,23 +44,26 @@
 ## Potentioometer : 
 * A potentiometer is basically used for controlling the sensitivity of gas detecting .
 
-# ADC :
-*
+## ADC :
+* It convertes analog value to digital values and 	With the help of digital data from the ADC the data will be displayed on the LCD
+
 
 
 
 # Behavioral Diagram :
+ 
+ ## Flowchart
 
+![flow chart](https://user-images.githubusercontent.com/98826329/156937044-90140fc4-c3ff-40bb-afa5-b7fff8e92452.png)
 
+# Structural Diagram
 
-## High level Design :
 ## UML Diagram :
 
 ![Screenshot (85)](https://user-images.githubusercontent.com/98826329/157038359-e00291a0-2ca0-4874-bf91-71ed2d861f85.png)
 
-## Low Level Design :
 
-![flow chart](https://user-images.githubusercontent.com/98826329/156937044-90140fc4-c3ff-40bb-afa5-b7fff8e92452.png)
+
 
 ![IMG-20220307-WA0053](https://user-images.githubusercontent.com/98826329/157043678-8f92a4b6-e800-4150-8f40-679e3ed8e2a6.jpg)
 
@@ -69,11 +71,3 @@
 ![image](https://user-images.githubusercontent.com/98826329/156998425-0338e108-0d07-49b3-b9de-80cab4ecffd4.png)
 
 
-
-
-
-## Applications:
-*	It is used in gas industries
-*	It is used in mining if coal. And other materials.
-*	It is used in municipal gas distribution
-*	It is used in nuclear power station's
