@@ -7,4 +7,4 @@
 | HLR2 | When Arduino gets a low Pulse from LPG Gas | sensor not detects no LPG Gas Leakage  | LCD displays "NO LPG Gas leakge Aleart " | LCD displays "NO LPG Gas leakge Aleart" |
 
 
-|
+
