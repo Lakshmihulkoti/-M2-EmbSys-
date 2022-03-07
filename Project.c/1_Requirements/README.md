@@ -21,20 +21,26 @@
 ![swot](https://user-images.githubusercontent.com/98826329/156692082-ebe1ad15-f109-49b5-af80-bb01a1389404.jpg)
 
  ## Strength:
- 
+* Detection and Prevention of any sort of gas leakage.
+* No environmental effect or no effect of physical conditions.
 * A Gas sensor is used to detect dangerous gas leaks in the kitchen or near the gas heater.
 * The sensor has excellent sensitivity combined with a quick response time..
 * This system provides quick response rate and diffusion if the critical situation can be made faster than the manual mathods
 
-## Weakness:
+## Weakness: 
+* It work only when at 5v power supply.
+* It's sensitivity depends on Humidity and temperature.
 * It may lead to fetal disaster and may cause human and material loss.
 
 ## Opportunities :
  * These sensors usually employ an audible alarm to alert people when a dangerous gas has been detected
  * The propsed system will help in giving better protection to life and propety.
+ * They may be used in firefighting.
   
  ## Threats :
  * No prevention of fires possible with kit
+ * That can, in turn, lead to severe headaches, fatigue, decreased vision, short breaths, and even loss of consciousness.
+
 
  # 4 W'S and 1'H 
  ![Screenshot (168)](https://user-images.githubusercontent.com/98826329/156935676-4ad15208-1a17-48cc-aae6-beca00498b06.png)
@@ -45,9 +51,10 @@
 ## High level Requirements:
  |    HLR                        |              Description                  |  
  |-------------------------------|:------------------------------------------|
- |  HLR1                         | User shall get notify when LPG Gas is sensed  |
- | HLR2                          | User shall not get notify when no LPG Gas is sensed |
- | HLR3                          | user shall get better protection to life and property | 
+ | HLR1                          | Sensor to detects the gas leakage.       |
+ |  HLR2                        | User shall get notify when LPG Gas is sensed  |
+ | HLR3                          | User shall not get notify when no LPG Gas is sensed |
+ | HLR4                          | user shall get better protection to life and property | 
 
  
 ## Low level Requirements:
