@@ -12,7 +12,8 @@
  * A potentiometer is also used for controlling sensitivity of gas sensing.
  * Arduino controls the whole process of this system like reading LPG Gas sensor module output, sending message to LCD and activating buzzer.  
 
- 
+ # State of Art
+ ![Screenshot (79)](https://user-images.githubusercontent.com/98826329/156982840-e6f8b586-d7c3-4756-bdf8-cd8f3c0cb3fb.png)
  
                  
 # SWOT ANALYSIS :
