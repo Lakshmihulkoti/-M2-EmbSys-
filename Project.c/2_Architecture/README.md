@@ -44,6 +44,11 @@
 
 
 ## Flow chart
+
+UML Diagram :
+
+![Screenshot (85)](https://user-images.githubusercontent.com/98826329/157038359-e00291a0-2ca0-4874-bf91-71ed2d861f85.png)
+
 ![flow chart](https://user-images.githubusercontent.com/98826329/156937044-90140fc4-c3ff-40bb-afa5-b7fff8e92452.png)
 
 ![image](https://user-images.githubusercontent.com/98826329/156998425-0338e108-0d07-49b3-b9de-80cab4ecffd4.png)
