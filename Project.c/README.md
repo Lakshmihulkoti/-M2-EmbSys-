@@ -7,6 +7,5 @@
 |3_Implemenation|	All codes is written here|
 |4_TestplanAndOutput |	Documents with test plans and outputs|
 |5_Report|	Documentation of whole project|
-|6_Imagesandvideo	| All the images of this projecand video
-t |
+|6_Imagesandvideo	| All the images of this project and video |
 
