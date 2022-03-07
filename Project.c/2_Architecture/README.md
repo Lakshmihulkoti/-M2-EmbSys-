@@ -10,6 +10,10 @@
 5) ADC
 6) Buzzer
 7) 5v charge
+  
+ ## software requirements
+ * Simulide software
+ * Arduino IDE
 
 ## Arduino uno:
 ![Screenshot (42)](https://user-images.githubusercontent.com/98826329/155743782-a2c80015-f809-417d-80a3-76dfdb9bdebe.png)
@@ -37,6 +41,12 @@
 
 *	A buzzer or beeper is a audio signaling device, usually electronic, typically used in automobiles, household appliances such as a microwave oven, or game shows .
 *	A buzzer is turned on after LPG gas leakage so it acts as a gas leakage alarm
+
+## Potentioometer : 
+* A potentiometer is basically used for controlling the sensitivity of gas detecting .
+
+# ADC :
+*
 
 
 
