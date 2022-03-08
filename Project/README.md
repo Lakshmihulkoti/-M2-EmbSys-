@@ -4,7 +4,7 @@
 
   |       Codiga     |          Codacy             |    Git inspector     |       Valgrid   |
 |-------------------------------|:------------------------------------------|:------------------------------------------------|:-------------------------------|
-|               | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4b1352aac763432685b0bf6394ccf702)](https://www.codacy.com/gh/Lakshmihulkoti/-M2-EmbSys-/dashboard) | [![Contribution Check - Git Inspector](https://github.com/Lakshmihulkoti/-M2-EmbSys-/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/Lakshmihulkoti/-M2-EmbSys-/actions/workflows/Git_Inspector.yml)| [![Valgrid](https://github.com/Lakshmihulkoti/-M2-EmbSys-/actions/workflows/valgrid.yml/badge.svg)](https://github.com/Lakshmihulkoti/-M2-EmbSys-/actions/workflows/valgrid.yml)
+|  ![codiga Badge](https://api.codiga.io/project/31675/score/svg ) ![codiga Badge](https://api.codiga.io/project/31675/status/svg)             | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4b1352aac763432685b0bf6394ccf702)](https://www.codacy.com/gh/Lakshmihulkoti/-M2-EmbSys-/dashboard) | [![Contribution Check - Git Inspector](https://github.com/Lakshmihulkoti/-M2-EmbSys-/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/Lakshmihulkoti/-M2-EmbSys-/actions/workflows/Git_Inspector.yml)| [![Valgrid](https://github.com/Lakshmihulkoti/-M2-EmbSys-/actions/workflows/valgrid.yml/badge.svg)](https://github.com/Lakshmihulkoti/-M2-EmbSys-/actions/workflows/valgrid.yml)
 
 
    
