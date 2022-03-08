@@ -194,7 +194,10 @@
 ![LPG gas detector](https://user-images.githubusercontent.com/98826329/157050980-3a68a4c9-3aeb-4fc9-859d-2cf79c20845e.png) 
 
  ## LPG GAS LEAKAGE DETECTOR PRESENATAION VIDEO 
- 
+ https://user-images.githubusercontent.com/98826329/157309085-522354b3-4f60-4b09-8937-cad78b75dd06.mp4
+
+
+ ## simulation working video :
 https://user-images.githubusercontent.com/98826329/157070866-8c797327-cba7-4897-9a1a-fac5b02f3868.mp4
 
 * Resources: 
