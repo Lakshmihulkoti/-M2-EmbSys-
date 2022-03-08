@@ -12,6 +12,7 @@
 
 
 # Folder structure :
+
 |     Folder Name               |              Description                  |
 |-------------------------------|:------------------------------------------| 
 |1_Requriments	|Documents detailing requirements and research |
@@ -21,5 +22,5 @@
 |5_Report|	Documentation of whole project|
 |6_Imagesandvideo	| All the images of this project and video |
 
-* Resources: 
+## Resources: 
 * [Reference_1](https://technoreview85.com/lpg-gas-leakage-detector-using-arduino/)
