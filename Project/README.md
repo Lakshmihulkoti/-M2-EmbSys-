@@ -20,3 +20,5 @@
 |5_Report|	Documentation of whole project|
 |6_Imagesandvideo	| All the images of this project and video |
 
+* Resources: 
+* [Reference_1](https://technoreview85.com/lpg-gas-leakage-detector-using-arduino/)
