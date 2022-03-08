@@ -1,6 +1,7 @@
-LPG GAS LEAKAGE DETECTOR 
+# LPG GAS LEAKAGE DETECTOR 
+ This project has a gas leakage detector implemented by using an LPG Gas sensor.LPG is an essential need of every household,To alert on LPG leakage and prevent any mishappening there are various products to detect the leakage. Here we have developed an Arduino based LPG gas detector alarm.
 
-
+## Code Analysis :
 
   |       Codiga     |          Codacy             |    Git inspector     |       Valgrid   |
 |-------------------------------|:------------------------------------------|:------------------------------------------------|:-------------------------------|
