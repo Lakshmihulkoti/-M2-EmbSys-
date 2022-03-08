@@ -4,7 +4,7 @@
 
 
 ## Abstract:
- This project has a gas leakage detector implemented by using an LPG Gas sensor.LPG is an essential need of every household,To alert on LPG leakage and prevent any mishappening there are various products to detect the leakage. Here we have developed an Arduino based LPG gas detector alarm. If gas leakage occurs, this system detects it and makes an alert by buzing the buzzer attached with the circuit A Gas sensor is used to detect dangerous gas leaks in the kitchen or near the gas heater. Ideal to detect dangerous gas leaks in the kitchen. The sensor can also sense LPG and Coal Gas as well as Ideal sensor for use to detect the presence of a dangerous LPG leak in your car or in a service station, storage tank environment. 
+ This project has a gas leakage detector implemented by using an LPG Gas sensor.LPG is an essential need of every household,To alert on LPG leakage and prevent any mishappening there are various products to detect the leakage. Here we have developed an Arduino based LPG gas detector alarm. If gas leakage occurs, this system detects it and makes an alert by buzing the buzzer attached with the circuit and  A Gas sensor is used to detect dangerous gas leaks in the kitchen or near the gas heater. Ideal to detect dangerous gas leaks in the kitchen.The propsed system will help in giving better protection to life and propety.
  
  ## Identifying features :
  * This module contains a MQ3 sensor which actually detects LPG gas.
@@ -60,7 +60,7 @@
 ## Low level Requirements:
 |    LLR       |              Description                  |
 |-------------------------------|:------------------------------------------|
-| LLR1 | This system triggers LED and buzzer to alert people when LPG leakage is detected LED get turn on when .|
+| LLR1 | This system triggers LED and buzzer to alert people when LPG leakage is detected LED get turn on  .|
 | LLR2 | LPG leakage detection is essential to prevent accidents and to save human lives.  |
 | LLR3 | It shall alert through Buzzer when system detects LPG GAS |
 

@@ -1,5 +1,7 @@
 
+# OUTPUT :
 
+## Schematic Design: 
 ![first](https://user-images.githubusercontent.com/98826329/157050947-242d1720-e4e6-4d0a-9a73-edbeb2d9b19e.png)
 
 ##  Arduino turns ON & checks for Gas Leakage :

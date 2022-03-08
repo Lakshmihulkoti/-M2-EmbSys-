@@ -1,6 +1,35 @@
 
-         
-# LPG GAS DETECTOR using Arduino :
+# REPORT        
+# LPG GAS LEAKAGE  DETECTOR using Arduino :
+-BY LAKSHMI HULKOTI
+
+# Table of Contents:            	
+* Abstract
+* Identifying Features
+* State of Art                    	
+* SWOT Analysis	
+* 4 W's and 1H	
+
+## Requirements	
+* High Level Requirements	
+* Low Level Requirements	
+
+## Architecture	
+* Block Diagram	
+* Behaviour Diagram	
+* Flow Chart	
+* Structural Diagram	
+
+
+## Applications	
+* Test Case
+
+## Output 
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 ## Abstract:
@@ -152,6 +181,7 @@
 
 # OUTPUT :
 
+## Schematic Design
 ![first](https://user-images.githubusercontent.com/98826329/157050947-242d1720-e4e6-4d0a-9a73-edbeb2d9b19e.png)
 
 ##  Arduino turns ON & checks for Gas Leakage :
@@ -167,4 +197,6 @@
  
 https://user-images.githubusercontent.com/98826329/157070866-8c797327-cba7-4897-9a1a-fac5b02f3868.mp4
 
+* Resources: 
+* [Reference_1](https://technoreview85.com/lpg-gas-leakage-detector-using-arduino/)
 
