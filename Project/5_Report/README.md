@@ -197,6 +197,6 @@
  
 https://user-images.githubusercontent.com/98826329/157070866-8c797327-cba7-4897-9a1a-fac5b02f3868.mp4
 
-* Reference :
-* [Reference_](https://technoreview85.com/lpg-gas-leakage-detector-using-arduino/)
+* Resources: 
+* [Reference](https://technoreview85.com/lpg-gas-leakage-detector-using-arduino/)
 
