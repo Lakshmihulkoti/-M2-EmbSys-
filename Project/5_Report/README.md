@@ -181,17 +181,17 @@
 
 # OUTPUT :
 
-## Schematic Design
-![first](https://user-images.githubusercontent.com/98826329/157050947-242d1720-e4e6-4d0a-9a73-edbeb2d9b19e.png)
+## Schematic Design: 
+![ckt design](https://user-images.githubusercontent.com/98826329/157363441-44f64f8d-494c-42de-af4e-a0f8bc28f67e.png)
 
 ##  Arduino turns ON & checks for Gas Leakage :
-![whn we run](https://user-images.githubusercontent.com/98826329/157050925-62e28938-8f13-426f-9855-224dbe85fcad.png)
+![when qw run](https://user-images.githubusercontent.com/98826329/157363497-8dd099bf-14ab-461f-9758-ac67dcb19d62.png)
 
 ## When No LPG Gas is detected :
-![No LPG Gas detector](https://user-images.githubusercontent.com/98826329/157051008-1e7c1d84-0678-4ebd-b870-19d263269408.png)
+![no lpg gas detected](https://user-images.githubusercontent.com/98826329/157363545-279b16b5-7598-4d7d-af64-7075df4e504d.png)
 
 ## When LPG Gas is Detected :
-![LPG gas detector](https://user-images.githubusercontent.com/98826329/157050980-3a68a4c9-3aeb-4fc9-859d-2cf79c20845e.png) 
+![lpg gas leakage detected](https://user-images.githubusercontent.com/98826329/157363579-c4aeaf1e-3435-40ef-aea9-21c567f9bb41.png)
 
  ## LPG GAS LEAKAGE DETECTOR PRESENATAION VIDEO 
  https://user-images.githubusercontent.com/98826329/157309085-522354b3-4f60-4b09-8937-cad78b75dd06.mp4
