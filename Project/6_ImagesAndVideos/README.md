@@ -9,6 +9,7 @@
 
 ## When No LPG Gas is detected :
 ![no lpg gas detected](https://user-images.githubusercontent.com/98826329/157363545-279b16b5-7598-4d7d-af64-7075df4e504d.png)
+
 ## When LPG Gas is Detected :
 ![lpg gas leakage detected](https://user-images.githubusercontent.com/98826329/157363579-c4aeaf1e-3435-40ef-aea9-21c567f9bb41.png)
 
